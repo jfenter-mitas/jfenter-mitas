@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey buds! 👋
+
+I'm currently trying to learn the ins and outs of GitHub as it applies to large private projects and small teams.
 
 <!--
 **jfenter-mitas/jfenter-mitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
